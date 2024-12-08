@@ -1,7 +1,10 @@
 # RentARobot
+# still havent updates the code -. due -> code not working - will update soon- 
+**Thank you** 
 Rent-a-Robot: Revolutionizing Automation Access for Everyone
 Idea Overview:
 Rent-a-Robot is a cutting-edge service designed to democratize access to robotics and automation technologies. The platform allows individuals, businesses, and educational institutions to rent robots for specific purposes on a flexible, as-needed basis. This bridges the gap between the high cost of robotic systems and the growing demand for automation in various sectors.
+
 
 
 Renting a Robot 
