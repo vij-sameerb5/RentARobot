@@ -1,5 +1,5 @@
 # RentARobot
-# still havent updates the code -. due -> code not working - will update soon- 
+# still havent updates the code -. due to -> code not working - will update soon- 
 **Thank you** 
 Rent-a-Robot: Revolutionizing Automation Access for Everyone
 Idea Overview:
